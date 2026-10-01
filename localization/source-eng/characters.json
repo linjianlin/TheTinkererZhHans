@@ -1,0 +1,17 @@
+{
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.title": "The Tinkerer",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.titleObject": "the Tinkerer",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.description": "A resourceful inventor who builds Bot companions and weaponizes Oil.\nUses [gold]Bots[/gold], [gold]Oil[/gold], and [gold]Upgrades[/gold] to outpace the opposition.",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.pronounSubject": "they",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.pronounObject": "them",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.pronounPossessive": "theirs",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.possessiveAdjective": "their",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.cardsModifierTitle": "The Tinkerer Cards",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.cardsModifierDescription": "The Tinkerer cards will now appear in rewards and shops.",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.eventDeathPrevention": "The Tinkerer's machines whir to life, refusing to let them fall.",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.unlockText": "Complete a run with {Prerequisite} to unlock.",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.banter.alive.endTurnPing": "Recalibrating...",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.banter.dead.endTurnPing": "[The bots power down quietly.]",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.aromaPrinciple": "Every component has its place. Chaos is just a system the Tinkerer hasn't reverse-engineered yet.",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.goldMonologue": "More parts. More plans. More machines."
+}

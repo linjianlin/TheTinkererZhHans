@@ -1,0 +1,32 @@
+{
+  "translated_entries": 479,
+  "files": {
+    "ancients.json": 79,
+    "card_keywords.json": 35,
+    "cards.json": 192,
+    "characters.json": 15,
+    "enchantments.json": 3,
+    "potions.json": 6,
+    "powers.json": 119,
+    "relics.json": 30
+  },
+  "packed_resources": 16,
+  "checks": {
+    "keys": "pass",
+    "placeholders": "pass",
+    "rich_text": "pass",
+    "pack_md5": "pass",
+    "original_mod_unchanged": "pass",
+    "game_locvalidator_479_entries": "pass",
+    "dynamic_text_16_cases": "pass",
+    "harmony_patch_compatibility": "pass",
+    "engine_pack_load_479_entries": "pass",
+    "game_mod_initialization": "pass",
+    "game_chinese_tables_merged": "pass",
+    "installed_package_matches_release": "pass",
+    "visual_card_layout": "not_tested",
+    "full_combat_run": "not_tested"
+  },
+  "pack_sha256": "2718e45b8c211c2e4f7c5fea28a5fa034bfae3d7eca6bb53d8dc3f9b6f02234f",
+  "dll_sha256": "433497868549ea8e2d4e73c06580fb7e3f7ce7c23fdee0ebb32fa31c89cc3cda"
+}

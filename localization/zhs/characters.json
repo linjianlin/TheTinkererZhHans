@@ -1,0 +1,17 @@
+{
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.title": "机械师",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.titleObject": "机械师",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.description": "一位足智多谋的发明家，制造机器人伙伴，并将燃油化为武器。\n凭借[gold]机器人[/gold]、[gold]燃油[/gold]和[gold]升级[/gold]抢占先机。",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.pronounSubject": "机械师",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.pronounObject": "机械师",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.pronounPossessive": "机械师的",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.possessiveAdjective": "机械师的",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.cardsModifierTitle": "机械师卡牌",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.cardsModifierDescription": "机械师的卡牌现在会出现在奖励和商店中。",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.eventDeathPrevention": "机械师的机器嗡鸣着启动，不肯让其倒下。",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.unlockText": "使用{Prerequisite}完成一局游戏以解锁。",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.banter.alive.endTurnPing": "重新校准中……",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.banter.dead.endTurnPing": "[机器人悄然关闭。]",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.aromaPrinciple": "每个零部件各有其位。混乱不过是机械师尚未逆向解析的系统。",
+  "THETINKERERMOD-THE_TINKERER_CHARACTER.goldMonologue": "更多零件。更多计划。更多机器。"
+}

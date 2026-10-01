@@ -1,0 +1,13 @@
+{
+  "appId": 2868840,
+  "itemId": null,
+  "expectedSteamId": "YOUR_STEAM_ID",
+  "title": "The Tinkerer 简体中文汉化 | 机械师",
+  "descriptionFile": "description.bbcode.txt",
+  "contentDirectory": "content",
+  "previewFile": "preview.png",
+  "visibility": "public",
+  "dependencyIds": ["3747571123", "3737335127"],
+  "changeNote": "v1.0.0：角色、卡牌、机器人、古神对话和动态提示的简体中文汉化。",
+  "tags": []
+}

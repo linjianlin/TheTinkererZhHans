@@ -1,0 +1,31 @@
+[h1]The Tinkerer 简体中文汉化[/h1]
+The Tinkerer（机械师）的非官方简体中文汉化补丁。
+
+[h2]必需项目[/h2]
+请同时订阅并启用：
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3747571123]The Tinkerer[/url] — 原角色 Mod，作者 HantaFanta。
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3737335127]BaseLib[/url] — 原 Mod 的依赖库。
+[*]本汉化补丁。
+[/list]
+游戏语言请选择「简体中文」，启用后重新启动游戏。游戏会按依赖关系在原 Mod 之后加载本补丁。
+
+[h2]汉化内容[/h2]
+[list]
+[*]8 个语言表、479 条词条，包括 96 张卡牌的名称和描述。
+[*]角色介绍、古神对话、机器人关键词、能力、遗物、药水与附魔。
+[*]动态抽牌、升级和数量词提示，以及机器人悬浮提示。
+[/list]
+核心术语：The Tinkerer＝机械师，Oil＝燃油，Bot＝机器人，Power＝充能。
+
+[h2]兼容与说明[/h2]
+本补丁针对 The Tinkerer 当前工坊版本（v1.0）制作，已在《杀戮尖塔 2》v0.111.0、BaseLib v3.4.7 下验证资源加载和初始化。
+
+只在简体中文下生效。保留数值变量、升级高亮、能量图标、条件分支和富文本标签，不修改原角色的游戏机制。原版 Mod 的空文本和数值描述不一致保持原样。
+
+原 Mod 更新后，新增文本可能暂时显示英文。尚未进行完整战斗测试或逐张排版检查；发现漏译或文字显示问题可在留言区反馈。
+
+[h2]致谢[/h2]
+原角色与玩法由 HantaFanta 制作，BaseLib 由 Alchyr 制作。本项目仅提供中文文本及显示提示补丁，不包含原角色 DLL、美术或玩法资源。
+
+停用本汉化并重启游戏即可恢复英文。

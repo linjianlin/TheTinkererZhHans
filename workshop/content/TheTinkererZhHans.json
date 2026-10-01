@@ -1,0 +1,20 @@
+{
+  "id": "TheTinkererZhHans",
+  "name": "The Tinkerer 简体中文汉化",
+  "author": "Local Translation",
+  "description": "机械师的简体中文汉化，包含角色、卡牌、机器人、能力、物品和古神对话。仅在简体中文下生效。",
+  "version": "v1.0.0",
+  "min_game_version": "0.111.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {
+      "id": "TheTinkererMod"
+    },
+    {
+      "id": "BaseLib",
+      "min_version": "3.4.7"
+    }
+  ],
+  "affects_gameplay": false
+}
